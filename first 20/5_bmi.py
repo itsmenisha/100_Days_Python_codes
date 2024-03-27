@@ -1,0 +1,8 @@
+print("you personal BMI calculator")
+a = input("enter your weight in kg:")
+b = input("enter your height in meters:")
+w = float(a)
+h = float(b)
+totalBMI = w/(h ** 2)
+total = int(totalBMI)
+print("the total BMI is :{total}")
