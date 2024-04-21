@@ -24,6 +24,7 @@ This are the codes I did when doing Angela Yu's 100 Days of Python Udemy Course.
 - Day 012 - [Scope and Number Guessing Game]()
 - Day 013 - [Debugging]()
 - Day 014 - [Higher or Lower Game Project]()
-- Day 015 - [Higher or Lower Game Project](https://github.com/itsmenisha/100_Days_Python_codes/blob/main/day15/day15.py)
+- Day 015 - [Setup Local Development Environment & Coffee Machine Project](https://github.com/itsmenisha/100_Days_Python_codes/blob/main/day15/day15.py)
+- Day 016 - [Object Oriented Programming](https://github.com/itsmenisha/100_Days_Python_codes/blob/main/Day16/Day16.py)
   
   
