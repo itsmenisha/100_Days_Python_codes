@@ -26,6 +26,6 @@ This are the codes I did when doing Angela Yu's 100 Days of Python Udemy Course.
 - Day 014 - [Higher or Lower Game Project]()
 - Day 015 - [Setup Local Development Environment & Coffee Machine Project](https://github.com/itsmenisha/100_Days_Python_codes/blob/main/Day15/day15.py)
 - Day 016 - [Object Oriented Programming](https://github.com/itsmenisha/100_Days_Python_codes/blob/main/Day16/Day16.py)
-- Day 017 - [Creating Classes]()
+- Day 017 - [Creating Classes](https://github.com/itsmenisha/100_Days_Python_codes/blob/main/Day17/Day17.py)
   
   
